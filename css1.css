@@ -1,5 +1,5 @@
 body{
-	background-image:url("2160x.PNG") ;
+	background-image:url("2160x.png") ;
 	background-position: center;
 	background-size: cover;
 	}
@@ -11,4 +11,5 @@ p3	{color:orange;font-size:30px}
 p4	{color:orange;font-size:30px}
 p5	{color:orange;font-size:30px}
 p6	{font-size:30px}
+
 p7	{color:blue;font-size:30px}
