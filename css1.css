@@ -3,7 +3,7 @@ body{
 	background-position: center;
 	background-size: cover;
 	}
-h1	{font-size:200px}
+h1	{background-image:url("2160x.png") ;font-size:200px}
 h2	{color:brown;font-size:150px}
 p1	{font-size:80px}
 p2	{font-size:80px}
@@ -12,6 +12,7 @@ p4	{color:orange;font-size:80px}
 p5	{color:orange;font-size:80px}
 p6	{font-size:80px}
 p7	{color:blue;font-size:80px}
+
 
 
 
